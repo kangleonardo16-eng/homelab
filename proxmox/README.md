@@ -1,5 +1,4 @@
-<img width="1920" height="1032" alt="Screenshot 2026-07-31 184050" src="https://github.com/user-attachments/assets/0672caf4-8613-4459-ac06-52c5da6a5971" />
-<img width="2560" height="1392" alt="Screenshot 2026-07-31 183811" src="https://github.com/user-attachments/assets/a4277e58-d20a-4a23-8fbd-fb75786e771e" />
+
 # Proxmox
 
 ## Objective
@@ -43,5 +42,7 @@ Successfully deployed Proxmox and used it to host an Ubuntu Server virtual machi
 
 ## Screenshots
 
+<img width="2560" height="1392" alt="Screenshot 2026-07-31 183811" src="https://github.com/user-attachments/assets/60214e32-bd7b-421b-b633-83f0a0e8ee1f" />
 
+<img width="2560" height="1392" alt="Screenshot 2026-07-31 185226" src="https://github.com/user-attachments/assets/845f599a-806a-4de6-a2bd-c4e65213098a" />
 
