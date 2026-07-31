@@ -6,7 +6,7 @@ Deploy Proxmox VE on a Lenovo ThinkCentre Neo 50q Gen 4 to serve as the virtuali
 
 ---
 
-## Why I chose proxmox
+## Why I Chose Proxmox
 
 I wanted a way to run multiple operating systems and services on a single machine while learning virtualization concepts commonly used in enterpise enviornments.
 
