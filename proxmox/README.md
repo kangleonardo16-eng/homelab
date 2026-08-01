@@ -1,5 +1,7 @@
 # Proxmox
 
+---
+
 ## Objective
 
 Deploy Proxmox VE on a Lenovo ThinkCentre Neo 50q Gen 4 to serve as the virtualization platform for my homelab.
@@ -18,9 +20,9 @@ Proxmox allows me to create and manage virtual machines through a web interface 
 
 - The difference between a physical machine and a virtual machine
 - How Proxmox acts as a hypervisor by creating and managing virtual machines
-- How multiple virtual machines can share the same hardware.
-- How to access a server through a web management interface.
-- Basic VM Resource allocation (CPU, memory, storage).
+- How multiple virtual machines can share the same hardware
+- How to access a server through a web management interface
+- Basic VM Resource allocation (CPU, memory, storage)
 
 ---
 
