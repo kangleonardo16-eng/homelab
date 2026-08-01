@@ -17,7 +17,7 @@ Proxmox allows me to create and manage virtual machines through a web interface 
 ## What I Learned 
 
 - The difference between a physical machine and a virtual machine
-- What a hypervisor is.
+- How Proxmox acts as a hypervisor by creating and managing virtual machines
 - How multiple virtual machines can share the same hardware.
 - How to access a server through a web management interface.
 - Basic VM Resource allocation (CPU, memory, storage).
