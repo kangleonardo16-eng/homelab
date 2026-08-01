@@ -26,6 +26,8 @@ I wanted a simple way to monitor my services and be notified if they became unav
 
 ## Monitors Configured
 
+| Monitor | Type |
+|---------|----------|
 | Ubuntu Server | TCP Port (22) |
 | Portainer | HTTP(s) |
 | Pi-hole DNS | DNS |
