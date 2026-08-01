@@ -18,7 +18,7 @@ I chose Ubuntu Server because it's widely used in enterprise and cloud enviornme
 - How to remotely manage a server using SSH.
 - Basic Linux navigation and file management.
 - How virtual machines can provide isolated enviornments for services.
-- Modern IT infrastructure is built in layers. Each layer has a specific responsibility and relies on abstraction to interact with the layer below it. This allows services to be moved, replaced, or rebuilt without affecting the entire system.
+- I learned that modern IT infrastructure is built in layers. Each layer has a specific responsibility and relies on abstraction to interact with the layer below it. This allows services to be moved, replaced, or rebuilt without affecting the entire system.
 
 ---
 
