@@ -30,15 +30,6 @@ Successfully deployed Proxmox and used it to host an Ubuntu Server virtual machi
 
 ---
 
-## Future Improvements
-
-- Create additional Linux VMs.
-- Deploy Windows Server.
-- Learn Proxmox backups and Snapshots.
-- Explore Vlans and advanced networking.
-
----
-
 ## Screenshots
 
 <img width="2560" height="1392" alt="Screenshot 2026-07-31 183811" src="https://github.com/user-attachments/assets/60214e32-bd7b-421b-b633-83f0a0e8ee1f" />
