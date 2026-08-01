@@ -22,9 +22,9 @@ I wanted to learn more about DNS while improving privacy and reducing unwanted a
 - The difference between a service being reachable and a service accepting request
 - The security implications of exposing DNS services to the public internet
 
-  ## Challenges
-
 ---
+
+## Challenges
 
 ## Pi-hole Not Resolving DNS Request
 
