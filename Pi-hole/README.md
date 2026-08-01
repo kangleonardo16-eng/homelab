@@ -24,8 +24,6 @@ I wanted to learn more about DNS while improving privacy and reducing unwanted a
 
 ---
 
-## Challenges
-
 ## Pi-hole Not Resolving DNS Requests
 
 After configuring client devices to use Pi-hole as their DNS server, website failed to load.
