@@ -24,6 +24,14 @@ I wanted to learn more about DNS while improving privacy and reducing unwanted a
 
 ---
 
+### Port 53 Conflict
+
+Pi-hole initially failed to start because port 53 was already being used by another service on the host. After identifying and resolving the conflict, Pi-hole was able to bind to the port and begin serving DNS requests.
+
+This experience helped me understand how port conflicts occur and why services require exclusive access to specific ports.
+
+---
+
 ## Pi-hole Not Resolving DNS Requests
 
 After configuring client devices to use Pi-hole as their DNS server, website failed to load.
