@@ -29,3 +29,9 @@ Successfully deployed an Ubuntu Server virtual machine on Proxmox and used it as
 ---
 
 ## Screenshots
+
+
+
+<img width="2560" height="1392" alt="Screenshot 2026-07-31 192550" src="https://github.com/user-attachments/assets/dedebffd-d8b5-4603-92ff-9dbddde553b8" />
+
+<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/dbd3fffd-6a16-41b7-9c08-886d23bd6299" />
