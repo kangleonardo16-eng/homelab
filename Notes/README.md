@@ -1,1 +1,1 @@
-
+- Don't accidently make open DNS resolver
