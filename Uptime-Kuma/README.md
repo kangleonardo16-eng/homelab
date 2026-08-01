@@ -42,6 +42,10 @@ Successfully deployed Uptime Kuma in Docker and configured monitoring for multip
 
 ---
 
+## Key Takeaway
+
+A service being powered on does not necessarily mean it's functioning correctly. Monitoring allows administrators to verify that systems are reachable, ports are available, and applications are responding as expected,
+
 ## Screenshots
 
 <img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/353420c4-27b1-40e6-a63b-9a5f6bc50b98" />
