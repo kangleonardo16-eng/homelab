@@ -29,9 +29,8 @@ I wanted to learn more about DNS while improving privacy and reducing unwanted a
 ## Pi-hole Not Resolving DNS Request
 
 After configuring client devices to use Pi-hole as their DNS server, website failed to load.
----
+
 <img width="1062" height="52" alt="Screenshot 2026-07-31 210413" src="https://github.com/user-attachments/assets/cc0b733d-d993-4309-b18f-d3b270665090" />
----
 
 Pi-hole was receiving DNS request but rejecting them due to its DNS listening configurations.
 
