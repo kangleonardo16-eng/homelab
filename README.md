@@ -31,7 +31,7 @@ Completed: 6/44
 
 ## Phase 2 - Networking
 
-- [ ] Nginx Proxy Manager
+- [x] Nginx Proxy Manager
 - [ ] WireGuard VPN
 - [ ] VLANs
 - [ ] Static IP addressing
