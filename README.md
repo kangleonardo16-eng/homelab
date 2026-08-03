@@ -16,7 +16,7 @@ My goal is to gain hands on experience with technologies commonly used in enterp
 
 ## Current Progress
 
-Completed: 6/44
+Completed: 7/44
 
 ---
 
