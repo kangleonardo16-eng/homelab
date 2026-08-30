@@ -53,7 +53,7 @@ Nginx Proxy Manager was changed to expose standard HTTPS port 443, and I generat
 
 ## Outcome 
 
-### Successfully implemented internal DNS and reverse proxying for multiple homelab applications.
+#### Successfully implemented internal DNS and reverse proxying for multiple homelab applications.
 
 #### Services that previously required addresses such as:
 
@@ -69,6 +69,6 @@ Nginx Proxy Manager was changed to expose standard HTTPS port 443, and I generat
 - http://portainer.home
 - https://proxmox.home
 
-### The project gave me practical experience troubleshooting an application request across multiple layers rather than treating DNS, HTTP, TLS, and reverse proxying as isolated concepts.
+#### The project gave me practical experience troubleshooting an application request across multiple layers rather than treating DNS, HTTP, TLS, and reverse proxying as isolated concepts.
 
 ## Screenshots
