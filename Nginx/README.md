@@ -61,6 +61,7 @@ Nginx Proxy Manager was changed to expose standard HTTPS port 443, and I generat
 - 192.168.86.127:8081
 - 192.168.86.127:9443
 - 192.168.86.118:8006
+- 192.168.86.127:81
 
 #### can now be accessed using:
 
@@ -68,7 +69,16 @@ Nginx Proxy Manager was changed to expose standard HTTPS port 443, and I generat
 - http://pihole.home
 - http://portainer.home
 - https://proxmox.home
+- http://nginx.home
 
 #### The project gave me practical experience troubleshooting an application request across multiple layers rather than treating DNS, HTTP, TLS, and reverse proxying as isolated concepts.
 
 ## Screenshots
+
+<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/2cb8efa4-e0c3-4757-978f-997c8d83c6a6" />
+
+<img width="1512" height="923" alt="image" src="https://github.com/user-attachments/assets/bb12e2be-af1b-4d45-94a5-635115ecb5f3" />
+
+<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/565c0562-4ce5-4148-8fb5-c8bd4211da06" />
+
+
