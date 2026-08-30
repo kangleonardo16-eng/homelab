@@ -62,7 +62,7 @@ Nginx Proxy Manager was changed to expose standard HTTPS port 443, and I generat
 - 192.168.86.127:9443
 - 192.168.86.118:8006
 
-##### can now be accessed using:
+#### can now be accessed using:
 
 - http://kuma.home
 - http://pihole.home
