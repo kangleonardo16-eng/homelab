@@ -23,13 +23,13 @@ I implemented Pi-hole for internal DNS resolution and Nginx Proxy Manager as a c
 
 ## Challenges 
 
-# DNS and Reverse Proxy Routing 
+### DNS and Reverse Proxy Routing 
 
 Internal DNS records needed to resolve service hostnames to the Nginx Proxy Manager server rather than directly to each backend application.
 
 This allowed Nginx to receive the request, inspect the requested hostname, and determine which backend service should receive the traffic.
 
-# Proxmox Reverse Proxy
+### Proxmox Reverse Proxy
 
 Proxmox required additional configuration because its web interface normally operates over HTTPS on port 8006.
 
@@ -37,17 +37,17 @@ During configuration, I encountered authentication errors, incorrect HTTP/HTTPS 
 
 I troubleshot the request path individually: DNS -> Nginx -> TLS/HTTPS -> Proxmox
 
-# Validating DNS 
+### Validating DNS 
 
 I used nslookup to confirm that proxmox.home resolved to the Nginx proxy Manager server which was 192.168.86.127, rather than directly to the proxmox host.
 
-# Validating Nginx Routing
+### Validating Nginx Routing
 
 I used curl with a custom Host header to test Nginx independently of normal DNS resolution: curl -I -H "Host: proxmox.home" http://127.0.0.1
 
 The resulting 301 Moved Permanently response redirecting to https://proxmox.home/ confirmed that Nginx recognized the hostname and that HTTPS redirection was functioning.
 
-# TLS Configuration
+### TLS Configuration
 
 Nginx Proxy Manager was changed to expose standard HTTPS port 443, and I generated a self-signed TLS certificate containing proxmox.home as the certificate hostname.
 
